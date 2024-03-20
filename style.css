@@ -6,6 +6,30 @@
     padding: 0;
 }
 
+h2 {
+    font-family: "Didact Gothic", sans-serif; 
+    font-size: 1.25rem;
+    color: #CDAF8C;
+}
+
+h3 {
+    font-family: "Didact Gothic", sans-serif; 
+    font-size: 1rem;
+    color: #5B2F2C;
+}
+
+.h3 {
+    font-family: "Didact Gothic", sans-serif; 
+    font-size: 1rem;
+    color: #5B2F2C;
+}
+
+.leading {
+    font-family: "Didact Gothic", sans-serif; 
+    font-size: 1rem;
+    color: black;
+}
+
 /* navigation */
 #navigation {
     background-color: #352108;
