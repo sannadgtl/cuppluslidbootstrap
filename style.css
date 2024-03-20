@@ -71,3 +71,19 @@ h3 {
     height: auto;
     display: block;
 }
+
+/* info grid */
+.col-md-6{
+    padding: 0;
+} 
+
+.btn-primary {
+    font-family: "Didact Gothic", sans-serif; 
+    font-size: 1rem;
+    font-weight: bold;
+    color: #5B2F2C;
+    background-color: white;
+    border-color: #5B2F2C;
+    border-radius: 0;
+}
+
