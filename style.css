@@ -87,3 +87,35 @@ h3 {
     border-radius: 0;
 }
 
+/* contact */
+#contact {
+    background-color: #e8d6c1; 
+}
+
+span {
+   text-decoration: underline;
+   font-weight: bold;
+}
+ 
+#btn-secondary {
+    background-color: #CDAF8C;
+}
+ 
+.btn-secondary {
+    font-family: "Didact Gothic", sans-serif; 
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
+    background-color: #CDAF8C;
+    border-color: #CDAF8C;
+    border-radius: 0;
+}
+ 
+.form-control {
+    background-color: #e8d6c1;
+    border: none;
+}
+ 
+#form {
+    border-bottom: 1px solid #352108;
+}
