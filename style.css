@@ -6,7 +6,7 @@
     padding: 0;
 }
 
-/* navigation CSS */
+/* navigation */
 #navigation {
     background-color: #352108;
     padding-block: 0.5rem;
@@ -22,4 +22,28 @@
 
 .navbar li {
     list-style-type: none;
+}
+
+/* hero section */
+#hero {
+    position: relative;
+}
+
+.hero-text {
+    position: absolute; 
+    top: 50%;
+    left: 35%; 
+    transform: translate(-50%, -50%);
+}
+
+.hero-text h1 {
+    font-family: "Didact Gothic", sans-serif;
+    color: white; 
+    font-weight: bold;
+}
+
+#heroimg {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
