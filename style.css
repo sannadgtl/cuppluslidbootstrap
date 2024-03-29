@@ -85,6 +85,8 @@ h3 {
     background-color: white;
     border-color: #5B2F2C;
     border-radius: 0;
+    --bs-btn-hover-bg: #5b2f2c; 
+    --bs-btn-hover-border-color: #5b2f2c; 
 }
 
 /* contact */
@@ -109,6 +111,8 @@ span {
     background-color: #CDAF8C;
     border-color: #CDAF8C;
     border-radius: 0;
+    --bs-btn-hover-bg: #CDAF8C; 
+    --bs-btn-hover-border-color: #fff; 
 }
  
 .form-control {
